@@ -1,0 +1,5 @@
+TID,Lait,Savon,Pain
+1,T,F,T
+2,F,F,T
+3,T,T,T
+4,F,T,T

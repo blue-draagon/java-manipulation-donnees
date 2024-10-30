@@ -1,0 +1,4 @@
+1,Lait,Pain
+2,Pain
+3,Lait,Savon,Pain
+4,Savon, Pain
